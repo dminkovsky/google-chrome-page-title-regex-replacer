@@ -6,7 +6,7 @@ Sometimes you find that you have lots of tabs in one Chrome window. If many of t
 This Chrome extension allows you to specify regex replacements for page titles, so that your tab situation is improved as so:
 ![After](http://i46.tinypic.com/xd9m42.png "After")
 
-Etension Contents
+Extension Contents
 =================
 -  manifest.json
 -  title_replace.js

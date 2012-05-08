@@ -1,7 +1,6 @@
 *Extension contents:
 - manifest.json
 - title_replace.js
-- icon.png (most likely unnecessary)
 
 *To load the extension:
 1. Go to Window -> Extensions

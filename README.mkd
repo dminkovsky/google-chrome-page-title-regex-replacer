@@ -13,9 +13,9 @@ Extension Contents
 
 Configuration
 =============
-title_replace.js is executed for sites matching `manifest.json.content_scripts.matches[]`.
-To configure this extension, add values to `manifest.json.content_scripts.matches[] and 
-modify the pattern in title.js::pattern.
+`title_replace.js` is executed for sites matching `manifest.json.content_scripts.matches[]`.
+To configure this extension, add values to `manifest.json.content_scripts.matches[]` and 
+modify the pattern in `title.js::pattern`.
 
 Loading the Extension
 =====================

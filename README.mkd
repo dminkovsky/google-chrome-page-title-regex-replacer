@@ -1,9 +1,11 @@
 About This Extension
 ====================
-Sometimes you find that you have lots of tabs in one Chrome window. If many of the tabs are titled like "Title Prefix | Meaningful Page Title", you may find that the Meaningful Page Title is completely invisible:
+Sometimes you have lots of tabs open in one Chrome window. If many of the tabs have titles like "Title Prefix | Meaningful Page Title", you may find that the "Meaningful Page Title" portion of the title is not visible:
+
 ![Before](http://i49.tinypic.com/e878zd.png "Before")
 
 This Chrome extension allows you to specify regex replacements for page titles, so that your tab situation is improved as so:
+
 ![After](http://i46.tinypic.com/xd9m42.png "After")
 
 Extension Contents
